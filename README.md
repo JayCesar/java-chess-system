@@ -8,7 +8,6 @@ Chess is a two-player strategy board game played on a checkerboard consisting of
 
 ***
 
-
 ### 🎮 How to play this game:
 
 
@@ -117,12 +116,40 @@ Moves one square forward: it can move one square straight forward towards the op
 
 In this game, the black pieces from tradicional chess are represented by the yellow and white pieces are represented by white 
 
+***
+
+## 📝 Chess system design 
+
+![chess-system-design](https://github.com/JayCesar/java-chess-system/assets/44206400/c76b48d1-42ca-42a0-8b35-cd736f4a9025)
 
 
+***
 
+## 📌 Topics covered:
 
+- Object Oriented Programming (OOP)
 
+- Constructors
 
+- Overriding
+
+- Encapsulation
+
+- Memory behavior
+
+- Enumerations and Composition
+
+- Inheritance and Polymorphism
+
+- Exceptions
+
+- Static members
+
+- List
+
+- Layers pattern
+
+- Overloading
 
 
 
