@@ -18,7 +18,7 @@ Obs: it might take a few minutes to load the board and the pieces.
 1) Click on the link: https://replit.com/@JayCesar/java-chess-system 
 2) Click on the “Run” button
 
-[Img Illustration] 
+![img-java-replit](https://github.com/JayCesar/java-chess-system/assets/44206400/cfb4944f-4d52-44bd-8691-3f6b68cf840c)
 
 **On desktop:**
 1) First you need to install Java on your computer; 
@@ -27,7 +27,9 @@ Obs: it might take a few minutes to load the board and the pieces.
 
 Java src/application/Program.java
 
-[Img Illustration] 
+![gif-java-chess-system](https://github.com/JayCesar/java-chess-system/assets/44206400/3e61b81c-62fc-45cb-8006-7944b7a3767f)
+
+
 
 ***
 
@@ -80,6 +82,7 @@ Pawn captures diagonally: when capturing an opponent's piece, the pawn moves one
 Pieces Colors (Yellow and White)
 In this game, the black pieces from tradicional chess are represented by the yellow and white pieces are represented by white 
 
+![gif-java](https://github.com/JayCesar/java-chess-system/assets/44206400/1cbe5e79-db74-42ef-807e-f91ba7aa325a)
 
 
 
