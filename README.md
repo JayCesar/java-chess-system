@@ -135,31 +135,38 @@ In this game, the **black pieces** from tradicional chess are represented by the
 
 ## 📌 Topics covered:
 
-- Object Oriented Programming (OOP)
+- Object Oriented Programming (OOP);
 
-- Constructors
+- Constructors;
 
-- Overriding
+- Overriding;
 
-- Encapsulation
+- Encapsulation;
 
-- Memory behavior
+- Memory behavior;
 
-- Enumerations and Composition
+- Enumerations and Composition;
 
-- Inheritance and Polymorphism
+- Inheritance and Polymorphism;
 
-- Exceptions
+- Exceptions;
 
-- Static members
+- Static members;
 
-- List
+- List;
 
-- Layers pattern
+- Layers pattern;
 
-- Overloading
+- Overloading.
 
+***
 
+<div align="center">
+  
+## 💻 Developer:
 
-
+<a href="https://github.com/JayCesar"><img width="180px" src="https://github.com/JayCesar/java-chess-system/assets/44206400/f9a92694-5252-442f-aedb-189780fb622c"/></a>
+<p> <b>Júlio César </b> </br>
+Full-stack Developer </p>
+</div>
 
