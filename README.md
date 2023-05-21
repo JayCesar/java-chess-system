@@ -1,5 +1,13 @@
 ![bg](https://github.com/JayCesar/java-chess-system/assets/44206400/9e44647c-0899-47a6-b054-c59eb9507261)
 
+<p align="left">
+<img alt="GitHub Top Language" align="center" src="https://img.shields.io/github/languages/top/JayCesar/java-chess-system" />
+
+<img alt="size" align="center" src="https://img.shields.io/github/repo-size/JayCesar/java-chess-system" />
+
+<img alt="banner" align="center" src="http://img.shields.io/static/v1?label=STATUS&message=%20FINISHED&color=GREEN&style=for-the-badge" />
+</p>
+
 ## ♟️ Java Chess System
 
 <p> <i> → This java chess system runs through the terminal! </i></p>
