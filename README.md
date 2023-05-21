@@ -1,4 +1,4 @@
-<h1 align="center"> ♟️ Java Chess System </h1>
+
 
 ![bg](https://github.com/JayCesar/java-chess-system/assets/44206400/9e44647c-0899-47a6-b054-c59eb9507261)
 
