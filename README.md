@@ -84,6 +84,7 @@ In this game the King is the letter <b>‘’K”</b>
 
 ### 🧠 How The Chess Pieces Move:
 
+</br>
 
 **King “K”**
 
