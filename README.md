@@ -12,13 +12,14 @@ Chess is a two-player strategy board game played on a checkerboard consisting of
 
 **Online:**
 
+
+
 You can play it on my Replit:
 Obs: it might take a few minutes to load the board and the pieces.
 
-1) Click on the link: https://replit.com/@JayCesar/java-chess-system 
-2) Click on the “Run” button
-
-![img-java-replit](https://github.com/JayCesar/java-chess-system/assets/44206400/cfb4944f-4d52-44bd-8691-3f6b68cf840c)
+<p><b>1)</b> Click on the link: <b><a href="https://replit.com/@JayCesar/java-chess-system"> Replit Java Chess System </a><b> </p>
+<p><b> 2)</b> Click on the “Run” button</p>
+<img src="https://github.com/JayCesar/java-chess-system/assets/44206400/cfb4944f-4d52-44bd-8691-3f6b68cf840c" width="700px"/>
 
 **On desktop:**
 1) First you need to install Java on your computer; 
