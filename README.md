@@ -8,82 +8,116 @@ Chess is a two-player strategy board game played on a checkerboard consisting of
 
 ***
 
+
 ### 🎮 How to play this game:
 
+
 **Online:**
-
-
 
 You can play it on my Replit:
 Obs: it might take a few minutes to load the board and the pieces.
 
-<p><b>1)</b> Click on the link: <b><a href="https://replit.com/@JayCesar/java-chess-system"> Replit Java Chess System </a><b> </p>
-<p><b> 2)</b> Click on the “Run” button</p>
+<p><b> 1)</b> Click on the link: <b><a href="https://replit.com/@JayCesar/java-chess-system"> Replit Java Chess System </a></b> </p>
+<p><b> 2)</b> Click on the “Run” <b>button</b></p>
 <img src="https://github.com/JayCesar/java-chess-system/assets/44206400/cfb4944f-4d52-44bd-8691-3f6b68cf840c" width="700px"/>
 
-**On desktop:**
-1) First you need to install Java on your computer; 
-2) You can download or clone this repository to your local computer; 
-3) Open a terminal interface on this folder/repository and execute this following command:
 
-Java src/application/Program.java
+**On desktop:**
+<p><b> 1)</b> First you need to <b>install Java</b> on your computer;</p>
+<p><b> 2)</b> You can <b>download</b> or <b>clone</b> this repository to your local computer;</p>
+<p><b> 3)</b> Open a terminal interface inside the folder <b>/bin</b> then run the following command:</p>
+
+```java
+
+java application/Program
+
+```
 
 ![gif-java-chess-system](https://github.com/JayCesar/java-chess-system/assets/44206400/3e61b81c-62fc-45cb-8006-7944b7a3767f)
-
-
 
 ***
 
 ### ▶️ Pieces on this Java Chess System
 
-**The Pawn ‘’P” (Peão) **
+</br>
 
-In this game the Pawn is the letter ‘’P”
+**The Pawn ‘’P” (Peão)**
+
+In this game the Pawn is the letter <b>‘’P”</b>
+</br></br>
 
 **The Bishop ‘’B” (Bispo)**
-In this game the Bishop is the letter ‘’B”
 
-The Knight “N” (Cavalo)
-In this game the Knight is the letter ‘’L”
+In this game the Bishop is the letter <b>‘’B”</b>
+</br></br>
 
-The Rook “R” (Torre)
-In this game the Rook is the letter ‘’R”
 
-The Queen “Q” (Rainha)
-In this game the Queen is the letter ‘’Q”
+**The Knight “N” (Cavalo)**
 
-The King “K” (Rei)
-In this game the King is the letter ‘’K”
+In this game the Knight is the letter <b>‘’L”</b>
+</br></br>
+
+
+**The Rook “R” (Torre)**
+
+In this game the Rook is the letter <b>‘’R”</b>
+</br></br>
+
+**The Queen “Q” (Rainha)**
+
+In this game the Queen is the letter <b>‘’Q”</b>
+</br></br>
+
+**The King “K” (Rei)**
+
+In this game the King is the letter <b>‘’K”</b>
+</br></br>
 
 ***
 
 ### 🧠 How The Chess Pieces Move:
 
-King “K”
+
+**King “K”**
+
 Moves one square in any direction: vertically, horizontally, or diagonally.
+</br></br>
 
-Queen “Q”
+**Queen “Q”**
+
 Moves any number of squares diagonally, horizontally, or vertically: in other words, it can move in any direction for any number of squares.
+</br></br>
 
-Rook “R”
+**Rook “R”**
+
 Moves any number of squares horizontally or vertically: it can move in a straight line either horizontally or vertically for any number of squares.
+</br></br>
 
-Bishop “B”
+**Bishop “B”**
+
 Moves any number of squares diagonally: it can move in a straight line diagonally for any number of squares.
+</br></br>
 
-Knight “N”
+**Knight “N”**
+
 Moves in an 'L-shape': it moves two squares in a straight direction (horizontally or vertically) and then one square perpendicular to that direction. The knight is the only chess piece that can jump over other pieces.
+</br></br>
 
-Pawn “P”
+**Pawn “P”**
+
 Moves one square forward: it can move one square straight forward towards the opponent's side of the board. 
+</br>
 
-On its first move, a pawn can move two squares forward instead of one.
-Pawn captures diagonally: when capturing an opponent's piece, the pawn moves one square diagonally forward.
+- On its first move, a pawn can move two squares forward instead of one.
+- Pawn captures diagonally: when capturing an opponent's piece, the pawn moves one square diagonally forward.
 
-Pieces Colors (Yellow and White)
+***
+
+## 🎨 Pieces Colors (Yellow and White)
+
 In this game, the black pieces from tradicional chess are represented by the yellow and white pieces are represented by white 
 
-![gif-java](https://github.com/JayCesar/java-chess-system/assets/44206400/1cbe5e79-db74-42ef-807e-f91ba7aa325a)
+
 
 
 
