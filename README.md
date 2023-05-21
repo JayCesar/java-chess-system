@@ -122,7 +122,7 @@ Moves one square forward: it can move one square straight forward towards the op
 
 ## 🎨 Pieces Colors (Yellow and White)
 
-In this game, the black pieces from tradicional chess are represented by the yellow and white pieces are represented by white 
+In this game, the **black pieces** from tradicional chess are represented by the yellow colour and **white pieces** are represented by **white colour**.
 
 ***
 
