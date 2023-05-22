@@ -119,6 +119,14 @@ Moves one square forward: it can move one square straight forward towards the op
 - On its first move, a pawn can move two squares forward instead of one.
 - Pawn captures diagonally: when capturing an opponent's piece, the pawn moves one square diagonally forward.
 
+### 📖 Movements:
+
+To move a piece you first need to select it, for that you type the column letter and row number of its position respectively.
+
+For example, to move a pawn, you could enter the letter “d” (column d) and the number 2 (row 2). After that, the possibilities of moves will be highlighted on the board and it's up to you to type again the column letter and the line number of the position you want to move that piece.
+
+**Note:** if you select something wrong or that restricts the game rules, one will be launched and an exception message will appear to the user.
+
 ***
 
 ## 🎨 Pieces Colors (Yellow and White)
