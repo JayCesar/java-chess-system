@@ -143,30 +143,29 @@ In this game, the **black pieces** from tradicional chess are represented by the
 ***
 
 ## 📌 Topics covered:
+* [x] Object Oriented Programming (OOP);
 
-- Object Oriented Programming (OOP);
+* [x] Constructors;
 
-- Constructors;
+* [x] Overriding;
 
-- Overriding;
+* [x] Encapsulation;
 
-- Encapsulation;
+* [x] Memory behavior;
 
-- Memory behavior;
+* [x] Enumerations and Composition;
 
-- Enumerations and Composition;
+* [x] Inheritance and Polymorphism;
 
-- Inheritance and Polymorphism;
+* [x] Exceptions;
 
-- Exceptions;
+* [x] Static members;
 
-- Static members;
+* [x] List;
 
-- List;
+* [x] Layers pattern;
 
-- Layers pattern;
-
-- Overloading.
+* [x] Overloading.
 
 ***
 
